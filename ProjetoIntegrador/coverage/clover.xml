@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1733167134261" clover="3.2.0">
+  <project timestamp="1733167134261" name="All files">
+    <metrics statements="24" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="1" elements="37" coveredelements="9" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1"/>
+    <file name="Empresa.ts" path="C:\Users\Aluno\Desktop\Murilo - CT\ProjetoIntegrador\ProjetoIntegrador\src\Empresa.ts">
+      <metrics statements="24" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="59" count="0" type="stmt"/>
+      <line num="60" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

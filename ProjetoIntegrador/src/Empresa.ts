@@ -1,4 +1,4 @@
- export class empresa {
+ export class Empresa {
      private cnpj:string
      private nome: string
      private rua: string
@@ -6,6 +6,7 @@
      private numero: number
      private contato:number
 
+     
     constructor (cnpj:string,nome:string,rua:string,bairro:string,numero:number,contato:number){
 
     this.cnpj = cnpj
@@ -63,4 +64,6 @@
     
    }
 
+
 }
+    export const cadastro:Empresa = new Empresa("","","","",0,0)
